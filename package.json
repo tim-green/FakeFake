@@ -1,0 +1,29 @@
+{
+  "name": "fakeid",
+  "version": "1.0.1",
+  "private": true,
+  "dependencies": {
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.7.0",
+    "react": "^16.6.3",
+    "react-addons-test-utils": "^15.6.2",
+    "react-dom": "^16.4.0",
+    "react-scripts": "2.1.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.83.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "eject": "react-scripts eject"
+  },
+  "homepage": "http://fakefake.timgreen.xyz",
+  "browserslist": [
+    ">0.4%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

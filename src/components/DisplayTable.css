@@ -1,0 +1,26 @@
+.display-table {
+  max-width: 450px !important;	
+}
+
+.table__title {
+  font-weight: bold;
+  text-align: left !important;
+  padding-left: 10% !important;	
+}
+
+@media (max-width: 777px){
+    .table__title {
+        text-align: center !important;
+    }
+}
+
+.card__header {
+  margin-top: 18px !important;
+  margin-bottom: -10px !important;
+}
+
+table tr:hover{
+     background: linear-gradient(90deg,#c9373f 0,#930f5b) !important;
+     color: #fff !important;
+     font-weight: bold !important;
+}

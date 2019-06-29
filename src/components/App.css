@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  background-color: #f9f9f9;
+}
+
+
+.cockbite-bg{
+    background: linear-gradient(90deg,#c9373f 0,#930f5b) !important;
+    color: #1d1d1d !important;
+}
+
+.cockbite-button{
+    background: #1d1d1d !important;
+    color: #fff !important;
+}

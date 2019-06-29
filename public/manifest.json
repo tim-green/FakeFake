@@ -1,0 +1,6 @@
+{
+  "short_name": "FakeFake",
+  "name": "Identity generator",
+  "start_url": "./index.html",
+  "display": "standalone",
+}
